@@ -54,6 +54,7 @@ public class Main {
 
 
         System.out.println(personList);
+        System.out.println(personList);
 
         System.out.println("Size of a list %s".formatted(personList.size()));
 
